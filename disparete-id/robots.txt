@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faizazhar.github.io/disparate-id/sitemap.xml
